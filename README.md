@@ -8,7 +8,7 @@ Uma aplicação web moderna e intuitiva para gerenciamento de tarefas do dia a d
 
 ## 🎨 Visuals
 
-*Espaço reservado para screenshot/GIF da aplicação*
+<img width="1860" height="915" alt="image" src="https://github.com/user-attachments/assets/ad56e4e6-1f74-4a82-9391-e06b052c856f" />
 
 ---
 
