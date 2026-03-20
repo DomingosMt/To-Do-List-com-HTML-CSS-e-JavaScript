@@ -18,6 +18,8 @@ Uma aplicação web moderna e intuitiva para gerenciamento de tarefas do dia a d
 - 🗑️ **Deletar Tarefas**: Remova tarefas concluídas ou desnecessárias com um clique
 - 🎯 **Interface Intuitiva**: Design limpo e responsivo para melhor experiência do usuário
 - 🎨 **Tema Escuro**: Interface com cores vibrantes em tema escuro para conforto visual
+- 🌌 **Fundo Animado**: Efeito de partículas e movimentação dinâmica no plano de fundo (novo)
+- 🖌️ **Estilização Melhorada**: Botões, cards de tarefa e tipografia atualizados para maior contraste e usabilidade
 - 📱 **Responsivo**: Funciona perfeitamente em diferentes tamanhos de tela
 
 ---
