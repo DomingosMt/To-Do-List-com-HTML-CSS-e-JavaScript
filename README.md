@@ -1,4 +1,4 @@
-# 📝 To-Do List com HTML, CSS e JavaScript
+<img width="1863" height="920" alt="image" src="https://github.com/user-attachments/assets/db526741-33e4-4e89-961e-d45fb59260aa" /># 📝 To-Do List com HTML, CSS e JavaScript
 
 ## Descrição
 
@@ -8,7 +8,7 @@ Uma aplicação web moderna e intuitiva para gerenciamento de tarefas do dia a d
 
 ## 🎨 Visuals
 
-<img width="1860" height="915" alt="image" src="https://github.com/user-attachments/assets/ad56e4e6-1f74-4a82-9391-e06b052c856f" />
+<img width="1863" height="920" alt="image" src="https://github.com/user-attachments/assets/1310fc39-5380-4542-aae1-8a22c9c91a63" />
 
 ---
 
