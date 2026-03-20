@@ -1,4 +1,4 @@
-<img width="1863" height="920" alt="image" src="https://github.com/user-attachments/assets/db526741-33e4-4e89-961e-d45fb59260aa" /># 📝 To-Do List com HTML, CSS e JavaScript
+# 📝 To-Do List com HTML, CSS e JavaScript
 
 ## Descrição
 
